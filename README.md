@@ -1,9 +1,10 @@
 # ODEV 2
 
-[![Status](https://img.shields.io/badge/Status-Completed-blue.svg)]()
+[![Status](https://img.shields.io/badge/Status-Completed-blue.svg)](https://github.com/DokuzEylulCsc/odev-2-Kite1717)
 
-- Description: [Ogrenci Kayit Sistemi]()
+- Description: [Ogrenci Kayit Sistemi](https://docdro.id/Vlur8dg)
 - Using [.NET Framework 4.6.1](https://www.microsoft.com/en-us/download/details.aspx?id=49981)
+- [Source Code](https://github.com/DokuzEylulCsc/odev-2-Kite1717/tree/master/HomeWork2)
 
 ## Referances
 - [Proxy Design Pattern](https://sourcemaking.com/design_patterns/proxy)
@@ -13,7 +14,7 @@
  - [MSDOCS](https://docs.microsoft.com/tr-tr/)
 
 ## Output Files
-- [Xml File]()
+- [Xml File](https://github.com/DokuzEylulCsc/odev-2-Kite1717/blob/master/HomeWork2/bin/Debug/SerializationNesneye%20Yonelik%20Programlama.xml)
 - **Txt File Path**
 ```
 C:\SavedLessonsAsTxt\<LessonName>.txt
