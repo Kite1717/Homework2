@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<SerializationLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameOfLesson>Nesneye Yonelik Programlama</NameOfLesson>
+  <PeriodOfLesson>Autumn Period</PeriodOfLesson>
+  <StatusOfLesson>bsc</StatusOfLesson>
+  <AvailableBranchCount>2</AvailableBranchCount>
+  <AllStudents>
+    <student>
+Name : bn
+Surname :ıop
+Age : 25
+No : 1
+Rank : BSc
+</student>
+    <student>
+Name : gh
+Surname :sad
+Age : 25
+No : 4
+Rank : BSc
+</student>
+    <student>
+Name : yu
+Surname :dfgd
+Age : 25
+No : 6
+Rank : BSc
+</student>
+    <student>
+Name : pl
+Surname :fnfr
+Age : 25
+No : 9
+Rank : BSc
+</student>
+    <student>
+Name : qs
+Surname :vr
+Age : 25
+No : 10
+Rank : BSc
+</student>
+    <student>
+Name : ym
+Surname :ewrew
+Age : 25
+No : 12
+Rank : BSc
+</student>
+    <student>
+Name : ıp
+Surname :yuyı
+Age : 25
+No : 13
+Rank : BSc
+</student>
+    <student>
+Name : cv
+Surname :kjk
+Age : 25
+No : 2
+Rank : BSc
+</student>
+  </AllStudents>
+  <AllLecturers>
+    <lecturer>
+Name : mustafa firat 
+Surname : yilmaz
+Id : 124124124
+Degree : Research Assistant
+Status : Lecturer
+</lecturer>
+  </AllLecturers>
+  <AllBranches>
+    <branch>***Branch Name : 1. Branch
+Class No : A110
+[Lecturer : 
+Name : mustafa firat 
+Surname : yilmaz
+Id : 124124124
+Degree : Research Assistant
+Status : Lecturer
+]
+-------&gt;&gt;Students Number : 
+1 , 4 , 6 , 9 , 10 , </branch>
+    <branch>***Branch Name : 2. Branch
+Class No : B244
+[Lecturer : ]
+-------&gt;&gt;Students Number : 
+12 , 13 , 2 , </branch>
+  </AllBranches>
+</SerializationLesson>
