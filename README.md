@@ -1,6 +1,6 @@
 # ODEV 2
 - [Author](https://github.com/Kite1717)🎨 
-[![Status](https://img.shields.io/badge/Status-Completed-blue.svg)](https://github.com/DokuzEylulCsc/odev-2-Kite1717)✅
+- [![Status](https://img.shields.io/badge/Status-Completed-blue.svg)](https://github.com/DokuzEylulCsc/odev-2-Kite1717)✅
 
 - Description: [Ogrenci Kayit Sistemi](https://docdro.id/Vlur8dg)📋 
 - Using [.NET Framework 4.6.1](https://www.microsoft.com/en-us/download/details.aspx?id=49981) 🔧
